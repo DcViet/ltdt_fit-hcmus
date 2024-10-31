@@ -1,0 +1,15 @@
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/bin/Debug/net8.0/21880291_project
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/bin/Debug/net8.0/21880291_project.deps.json
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/bin/Debug/net8.0/21880291_project.runtimeconfig.json
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/bin/Debug/net8.0/21880291_project.dll
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/bin/Debug/net8.0/21880291_project.pdb
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/21880291_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/21880291_project.AssemblyInfoInputs.cache
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/21880291_project.AssemblyInfo.cs
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/21880291_project.csproj.CoreCompileInputs.cache
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/21880291_project.sourcelink.json
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/21880291_project.dll
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/refint/21880291_project.dll
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/21880291_project.pdb
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/21880291_project.genruntimeconfig.cache
+/home/dcviet/gitRepo/ltdt_fit-hcmus/21880291_project/obj/Debug/net8.0/ref/21880291_project.dll
